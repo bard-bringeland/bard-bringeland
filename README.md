@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working with product development in a Norwegian online bank
+- 🌱 I’m currently learning React (with MERN stack)
+
 <!--
 **bard-bringeland/bard-bringeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
