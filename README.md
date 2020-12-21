@@ -21,6 +21,7 @@ I’m currently working with product development in a Norwegian online bank, and
 - creating single page application (SPA) bootstrapped with 'create-react-app',
 - functional components with the most common React hooks such as useState and useContext,
 - SPA routing and url-manipulation with 'react-router',
+- using Redux for centralized state management,
 - ... and lots more to come
 
 <!--
